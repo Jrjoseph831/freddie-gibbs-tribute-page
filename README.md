@@ -1,4 +1,4 @@
-# freddie-gibbs-tribute-page
+
 A Freddie Gibbs Tribute Page
 
 
